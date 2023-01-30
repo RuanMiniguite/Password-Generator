@@ -40,7 +40,9 @@
 <div align="center">
   
   ![PG](https://user-images.githubusercontent.com/82480542/215360347-00c1b3be-8322-42fe-a7fe-683dc75d391f.gif)
-
+  
+  [![Site][Site-shields]][Site-link]
+  
 </div>
 
 <p>The password generator was developed in Python and aims to generate random passwords. Where the user can select the characteristics of the generated passwords: Uppercase, Number, Special Character, in addition to allowing the choice of password length, with a minimum of 4 and a maximum of 32 characters. When generating the password, it is automatically copied to the user's clipboard.</p>
@@ -91,7 +93,7 @@ This project is [MIT][GitHub License-link] licensed.
 
 <!-- ============== LINKs ============== -->
 <!-- Alterar link -->
-[Site-link]: https://github.com/RuanMiniguite/Password-Generator
+[Site-link]: https://github.com/RuanMiniguite/Password-Generator/raw/main/Generator.exe
 [GitHub License-link]: https://github.com/RuanMiniguite/Password-Generator/blob/9d3fde4cc1751ac220f748996223401f59aa864d/LICENSE
 
 <!-- Alterar caminho para repositorio [Template-Readme] -->
@@ -102,6 +104,6 @@ This project is [MIT][GitHub License-link] licensed.
 
 <!-- Permalink Shields-->
 [GitHub License-shields]: https://img.shields.io/cocoapods/l/m?down_color=292929&up_color=292929&color=292929&style=for-the-badge
-[Site-shields]: https://img.shields.io/badge/Site-Live-292929?style=for-the-badge&logo=web&logoColor=white
+[Site-shields]: https://img.shields.io/badge/Download-EXE-292929?style=for-the-badge&logo=web&logoColor=white
 [Website-link]: https://github.com/RuanMiniguite/Commit-Message
 [Website-shields]: https://img.shields.io/website?down_color=292929&down_message=404&style=for-the-badge&logo=github&up_color=292929&up_message=Commit&url=https%3A%2F%2Fgithub.com%2FRuanMiniguite%2FCommit-Message
