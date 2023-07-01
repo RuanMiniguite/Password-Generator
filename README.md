@@ -103,7 +103,7 @@ This project is [MIT][GitHub License-link] licensed.
 [GitHub stars-shields]: https://img.shields.io/github/stars/RuanMiniguite/Password-Generator?style=for-the-badge&color=292929
 
 <!-- Permalink Shields-->
-[GitHub License-shields]: https://img.shields.io/cocoapods/l/m?down_color=292929&up_color=292929&color=292929&style=for-the-badge
+[GitHub License-shields]: https://img.shields.io/cocoapods/l/m?down_color=292929&color=292929&style=for-the-badge
 [Site-shields]: https://img.shields.io/badge/Download-EXE-292929?style=for-the-badge&logo=web&logoColor=white
 [Website-link]: https://github.com/RuanMiniguite/Commit-Message
 [Website-shields]: https://img.shields.io/website?down_color=292929&down_message=404&style=for-the-badge&logo=github&up_color=292929&up_message=Commit&url=https%3A%2F%2Fgithub.com%2FRuanMiniguite%2FCommit-Message
